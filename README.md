@@ -79,7 +79,7 @@ Trước khi bắt đầu, hãy đảm bảo máy tính của bạn đã cài đ
 
 **Bước 1: Tải mã nguồn về máy**
 ```bash
-git clone https://github.com/your-username/yolo_kho.git
+git clone https://github.com/uyencaocs/Yolo_ObjectDirection.git
 cd yolo_kho
 ```
 
@@ -185,7 +185,7 @@ Dự án **YOLO Kho** hướng tới việc trở thành một giải pháp ki�
 
 ### 1. Fine-Tune & Đào Tạo Mô Hình Chuyên Biệt
 - [ ] **Huấn luyện mô hình YOLOv8 Custom**: Train trên tập dữ liệu kho thực tế tại Việt Nam với các sản phẩm đặc thù (chai bia, lon nước ngọt, chai dầu ăn, chai nước mắm, thùng carton, v.v.) nhằm đạt độ chính xác **> 98%**.
-- [ ] **Hỗ trợ đọc Mã Vạch (Barcode) / QR Code**: Kết hợp nhận diện vị trí sản phẩm và tự động quét mã vạch sản phẩm song song.
+- [ ] **Hỗ trợ đọc mã vạch (Barcode) / QR Code**: Kết hợp nhận diện vị trí sản phẩm và tự động quét mã vạch sản phẩm song song.
 
 ### 2. Đếm Thời Gian Thực Qua Video Stream (Real-Time Live Camera Feed)
 - [ ] **Tích hợp Camera Stream**: Cho phép người dùng quét camera liên tục qua kệ hàng thay vì phải chụp từng bức ảnh tĩnh.
