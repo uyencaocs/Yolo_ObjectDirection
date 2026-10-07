@@ -1,0 +1,8 @@
+path: /content/datasets/yolo_kho
+train: images/train
+val: images/val
+
+names:
+  0: nuoc_ngot_chai
+  1: nuoc_ngot_lon
+  2: thuc_pham_kho
